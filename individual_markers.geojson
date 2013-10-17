@@ -4,6 +4,12 @@
 		    { "type": "Point", "coordinates": [100.0, 0.0] 
 		 },
 		 "type":"Feature",
+		 "properties":{"state":"default"}
+		},
+  		{"geometry":
+		    { "type": "Point", "coordinates": [100.0, 0.0] 
+		 },
+		 "type":"Feature",
 		 "properties":{"state":"small", "marker-size":"small"}
 		},
   		{"geometry":
