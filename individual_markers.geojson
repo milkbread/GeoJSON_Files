@@ -28,13 +28,13 @@
 		    { "type": "Point", "coordinates": [99.0, 0.0] 
 		 },
 		 "type":"Feature",
-		 "properties":{"state":"maki-symbol", "marker-symbol":1}
+		 "properties":{"state":"maki-symbol", "marker-symbol":"1"}
 		},
   		{"geometry":
 		    { "type": "Point", "coordinates": [99.0, 1.0] 
 		 },
 		 "type":"Feature",
-		 "properties":{"state":"maki-symbol", "marker-symbol":a}
+		 "properties":{"state":"maki-symbol", "marker-symbol":"a"}
 		},
 		{"geometry":
 		    { "type": "MultiPoint",
