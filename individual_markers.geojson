@@ -40,7 +40,7 @@
 		    { "type": "Point", "coordinates": [98.0, 0.0] 
 		 },
 		 "type":"Feature",
-		 "properties":{"state":"maki-symbol", "marker-symbol":"Museum"}
+		 "properties":{"state":"maki-symbol", "marker-symbol":"rocket"}
 		}
 		
     ]
