@@ -10,37 +10,43 @@
 		    { "type": "Point", "coordinates": [101.0, 0.0] 
 		 },
 		 "type":"Feature",
-		 "properties":{"state":"medium", "marker-size":"large"}
+		 "properties":{"state":"medium", "marker-size":"medium"}
 		},
   		{"geometry":
-		    { "type": "Point", "coordinates": [100.0, 1.0] 
+		    { "type": "Point", "coordinates": [102.0, 0.0] 
 		 },
 		 "type":"Feature",
 		 "properties":{"state":"large", "marker-size":"large"}
 		},
   		{"geometry":
-		    { "type": "Point", "coordinates": [101.0, 1.0] 
+		    { "type": "Point", "coordinates": [103.0, 0.0] 
 		 },
 		 "type":"Feature",
 		 "properties":{"state":"colored", "marker-color":"#f00"}
 		},
   		{"geometry":
-		    { "type": "Point", "coordinates": [99.0, 0.0] 
+		    { "type": "Point", "coordinates": [104.0, 0.0] 
 		 },
 		 "type":"Feature",
 		 "properties":{"state":"alphanumeric-symbol", "marker-symbol":"1"}
 		},
   		{"geometry":
-		    { "type": "Point", "coordinates": [99.0, 1.0] 
+		    { "type": "Point", "coordinates": [105.0, 0.0] 
 		 },
 		 "type":"Feature",
 		 "properties":{"state":"alphanumeric-symbol", "marker-symbol":"a"}
 		},
   		{"geometry":
-		    { "type": "Point", "coordinates": [98.0, 0.0] 
+		    { "type": "Point", "coordinates": [106.0, 0.0] 
 		 },
 		 "type":"Feature",
 		 "properties":{"state":"maki-symbol", "marker-symbol":"rocket"}
+		},
+  		{"geometry":
+		    { "type": "Point", "coordinates": [107.0, 0.0] 
+		 },
+		 "type":"Feature",
+		 "properties":{"state":"all-together", "marker-symbol":"rocket", "marker-size":"large", "marker-color":"#f00"}
 		}
 		
     ]
