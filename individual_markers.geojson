@@ -4,7 +4,19 @@
 		    { "type": "Point", "coordinates": [100.0, 0.0] 
 		 },
 		 "type":"Feature",
-		 "properties":{"state":"small, "marker-size":"small"}
+		 "properties":{"state":"small", "marker-size":"small"}
+		},
+  		{"geometry":
+		    { "type": "Point", "coordinates": [101.0, 0.0] 
+		 },
+		 "type":"Feature",
+		 "properties":{"state":"medium", "marker-size":"large"}
+		},
+  		{"geometry":
+		    { "type": "Point", "coordinates": [100.0, 1.0] 
+		 },
+		 "type":"Feature",
+		 "properties":{"state":"large", "marker-size":"large"}
 		},
 		{"geometry":
 		    { "type": "MultiPoint",
