@@ -6,3 +6,5 @@ This is just a simple test on the 'new' mapping functionality of GitHub, describ
 These are the testfiles:
 
 * spec_data.geojson ... contains all geometries of the [GeoJSON specification](http://www.geojson.org/geojson-spec.html)
+
+*Just click them and you will see the corresponding data on a map!*
