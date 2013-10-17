@@ -10,6 +10,6 @@ These are the testfiles:
 * spec_data.topojson ... same data as above, but as a topojson-file
 --> the corresponding command: *topojson -p -o spec_data.topojson spec_data.geojson*
 
-* individual_markers.geojson ... testing all the individual marker-style-definitions, that are possible
+* individual_markers.geojson ... testing all the individual marker-style-definitions, that are possible (described in the [help](https://help.github.com/articles/mapping-geojson-files-on-github))
 
 *Just click them and you will see the corresponding data on a map!*
