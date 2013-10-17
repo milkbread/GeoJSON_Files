@@ -7,7 +7,7 @@ These are the testfiles:
 
 * spec_data.geojson ... contains all geometries of the [GeoJSON specification](http://www.geojson.org/geojson-spec.html)
 
-*spec_data.topojson ... same data as above, but as a topojson-file
+* spec_data.topojson ... same data as above, but as a topojson-file
 --> the corresponding command: *topojson -p -o spec_data.topojson spec_data.geojson*
 
 
