@@ -40,7 +40,7 @@
 		    { "type": "Point", "coordinates": [106.0, 0.0] 
 		 },
 		 "type":"Feature",
-		 "properties":{"state":"maki-symbol", "marker-symbol":"rocket"}
+		 "properties":{"state":"maki-symbol", "source":"https://www.mapbox.com/maki/", "marker-symbol":"rocket"}
 		},
   		{"geometry":
 		    { "type": "Point", "coordinates": [107.0, 0.0] 
