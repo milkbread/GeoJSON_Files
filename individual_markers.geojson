@@ -40,7 +40,7 @@
 		    { "type": "Point", "coordinates": [98.0, 0.0] 
 		 },
 		 "type":"Feature",
-		 "properties":{"state":"maki-symbol", "marker-symbol":"cafe-24.png"}
+		 "properties":{"state":"maki-symbol", "marker-symbol":"Museum"}
 		}
 		
     ]
