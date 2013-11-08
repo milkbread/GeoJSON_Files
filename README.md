@@ -12,4 +12,9 @@ These are the testfiles:
 
 * individual_markers.geojson ... testing all the individual marker-style-definitions, that are possible (described in the [help](https://help.github.com/articles/mapping-geojson-files-on-github))
 
+* lines.json ... contains 3 different linestrings with different semantics:
+	- street
+	- river
+	- navigation_route
+
 *Just click them and you will see the corresponding data on a map!*
