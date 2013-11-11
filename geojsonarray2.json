@@ -1,0 +1,46 @@
+{
+    "type":"FeatureCollection",
+    "features":
+    [
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "type": "street",
+                        "name": "S 165",
+                        "color": "#f00"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -105.01621,
+                            39.57422
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "FeatureCollection",
+            "features": [
+                {
+                    "type": "Feature",
+                    "properties": {
+                        "type": "street",
+                        "name": "S 165",
+                        "color": "#f00"
+                    },
+                    "geometry": {
+                        "type": "Point",
+                        "coordinates": [
+                            -106.01621,
+                            39.57422
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}
