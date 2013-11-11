@@ -17,4 +17,12 @@ These are the testfiles:
 	- river
 	- navigation_route
 
+* featCollTest.json ... contains the 3 linestrings taken from 'lines.json', but here they are stored as a single FeatureClass within the major FeatureClass
+
+* featCollTest2.json ... based on 'featCollTest.json', without the major (surrounding) FeatureClass ... this is just to test if that syntax works
+
+* geojsonarray.json & geojsonarray2.json... same test as in the previous two, but with more simple contents
+	- geojsonarray.json --> no major FeatureClass
+	- geojsonarray2.json --> with a major FeatureClass
+
 *Just click them and you will see the corresponding data on a map!*
